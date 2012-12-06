@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">FMeClient</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Follow Me</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_brigister">New User</string>
+    <string name="title_activity_crigister">Device Rigister</string>
+    <string name="title_activity_cpanel">Control</string>
+    <string name="title_activity_followpanel">Follow Me</string>
+
+</resources>
